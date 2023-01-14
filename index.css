@@ -1,0 +1,22 @@
+html, body{
+    height: 100%;
+    width: 100%;
+}
+
+.button{
+    margin: 0 3px;
+    padding: 20px;
+    border: 2px solid black;
+    border-radius: 9px;
+    cursor: pointer;
+}
+.row{
+    margin: 8px 0;
+}
+
+#result{
+    padding: 15px 50px;
+    border: 2px solid black;
+    border-radius: 5px;
+    font-size: 15px;
+}
